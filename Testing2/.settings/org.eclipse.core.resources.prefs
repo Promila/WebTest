@@ -1,0 +1,15 @@
+eclipse.preferences.version=1
+encoding//src/com/blackdiamondreporting/www/AcceptTermsAndConditions.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/AcceptTermsAndConditionsResponse.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/DownloadBatchResponseDownloadBatchResult.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/GetTermsAndConditionsText.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/GetTermsAndConditionsTextResponse.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/PartnerDataBatch.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/PartnerDataWebService.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/PartnerDataWebServiceLocator.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/PartnerDataWebServiceSoap.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/PartnerDataWebServiceSoap12Stub.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/PartnerDataWebServiceSoapStub.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/RetrieveData.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/RetrieveDataResponse.java=UTF-8
+encoding//src/com/blackdiamondreporting/www/RetrieveDataResponseRetrieveDataResult.java=UTF-8
